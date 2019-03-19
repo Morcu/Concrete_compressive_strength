@@ -23,7 +23,7 @@ The Final model is a fully connected Network with an 8 node input layer, 3 hidde
 
 
 
-| Variable                      | kg in a m3 mixture |
+| Variable                      | Unit               |
 |-------------------------------|--------------------|
 | Cement                        | kg in a m3 mixture |
 | Blast Furnace Slag            | kg in a m3 mixture |
